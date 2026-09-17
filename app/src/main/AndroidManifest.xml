@@ -6,6 +6,8 @@
     <application
         android:label="KS‑Suite Mail"
         android:theme="@style/AppTheme">
+        android:usesCleartextTraffic="true">
+        
 
         <activity android:name=".LoginActivity">
             <intent-filter>
