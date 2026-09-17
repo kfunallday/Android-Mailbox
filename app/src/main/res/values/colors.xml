@@ -1,0 +1,18 @@
+<resources>
+    <!-- Core KS‑Suite Colors -->
+    <color name="ks_black">#000000</color>
+    <color name="ks_dark_gray">#121212</color>
+    <color name="ks_gray">#222222</color>
+    <color name="ks_white">#FFFFFF</color>
+
+    <!-- Gold Accent -->
+    <color name="ks_gold">#C88C36</color>
+
+    <!-- UI Elements -->
+    <color name="background_primary">#000000</color>
+    <color name="background_secondary">#121212</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#C88C36</color>
+    <color name="button_background">#C88C36</color>
+    <color name="button_text">#000000</color>
+</resources>
